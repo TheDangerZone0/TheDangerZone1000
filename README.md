@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheDangerZone1000
-- 👀 I’m interested in Aviation, The Military. Cybersecurity, and Hacking
+- 👀 I’m interested in Aviation, The Military, Cybersecurity, and Live Cams
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Autonomous Plane with Emergency RC Overide
-- 📫 How to reach me feedback@bennettreynolds.com
+- 💞️ I’m looking to collaborate on a VPN Server
+- 📫 How to reach me contact-us@bennettreynolds.com
 - My Website: https://bennettreynolds.com
 - My Youtube: https://youtube.com/@The_DangerZone
